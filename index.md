@@ -5,4 +5,9 @@
 ##### This is an H5 header
 ###### This is an H6 header
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Use `git status` to check the current repository state.
+``` javascript
+var myVar = "Hello, world!";
+```
+
 
